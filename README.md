@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I’m @Stramon1um
 <!--
 **Stramon1um/Stramon1um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👀 I’m interested in macroecology, conservation biology, island biogeography, ecoinformatics, data analysis, web development and coding.
+
 -->
+
+👋 Hi, I’m @pierozannini

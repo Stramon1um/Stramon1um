@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 👀 I’m interested in macroecology, conservation biology, island biogeography, ecoinformatics, data analysis, web development and coding.
 
 -->
-
-👋 Hi, I’m @pierozannini

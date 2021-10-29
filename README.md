@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m @Stramon1um!
+### 👋 Hi there, I’m Mauro!
 
 <!--
 **Stramon1um/Stramon1um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
